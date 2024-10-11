@@ -1,6 +1,6 @@
 DJS08 Project Brief: React Router
-🎥 INSERT LOOM PRESENTATION LINK: [Here]
-
+🎥 INSERT LOOM PRESENTATION LINK: [https://www.loom.com/share/78700f8d715248e0895fd269f52583bf]  
+                                   [https://www.loom.com/share/1bd68e5bc91e419c96cc3dc656007838]
 After cloning the repo, run npm install to install the dependencies
 
 Are you ready to get stuck into some React Router? For this challenge, you are required to code along with the lecturer from this lesson on Scrimba V1 VanLife Project Bootstrapping or on Scrimba V2 click the link here VanLife Project Bootstrapping
